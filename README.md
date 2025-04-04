@@ -57,7 +57,7 @@ RGConvNet architecture consists of:
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/yourusername/RGConvNet.git
+git clone[ https://github.com/yourusername/RGConvNet.git](https://github.com/Codervikash/RGConvNET.git)
 cd RGConvNet
 pip install -r requirements.txt
 ```
