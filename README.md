@@ -1,4 +1,4 @@
-Thanks for sharing your paper. Based on the content of your IEEE conference paper titled **"RGConvNet: Recursive Gated Convolutional Network for Hyperspectral Image Classification"**, here’s a detailed and professional GitHub README to showcase your work and attract attention from the research and industry community:
+Paper Link : https://ieeexplore.ieee.org/document/10881033
 
 ---
 
