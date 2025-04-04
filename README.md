@@ -39,10 +39,6 @@ RGConvNet architecture consists of:
 - → Fully Connected Layer
 - → Softmax for final classification
 
-<p align="center">
-  <img src="architecture.png" alt="RGConvNet Architecture" width="650"/>
-</p>
-
 ---
 
 ## 📁 Dataset Used
