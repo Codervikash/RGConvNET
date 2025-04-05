@@ -98,7 +98,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 For any questions or collaborations, feel free to contact:
 
 - 📧 Email: [vickydubeyiacr@gmail.com](mailto:vickydubeyiacr@gmail.com)
-- 🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/vikash-ranjan-9273bb1a9/)
+- 🔗 LinkedIn: [[Your LinkedIn Profile](https://www.linkedin.com/in/vikash-ranjan-9273bb1a9/)](https://www.linkedin.com/in/vikash-ranjan-9273bb1a9/)
 
 ---
 
