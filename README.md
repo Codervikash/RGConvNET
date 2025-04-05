@@ -79,7 +79,7 @@ If you use this code or ideas from this paper, please cite:
 @inproceedings{yourname2024rgconvnet,
   title={RGConvNet: Recursive Gated Convolutional Network for Hyperspectral Image Classification},
   author={Vikash Ranjan , Dr. pradyut Kumar Biswal},
-  booktitle={Advances in Signal Processing, Power, Communication and Computing
+  conference name ={Advances in Signal Processing, Power, Communication and Computing
 ASPCC-2024
 
 }
